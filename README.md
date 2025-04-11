@@ -15,7 +15,7 @@ Follow these steps to get the application running locally:
 ### Backend Setup (NestJS)
 
 1.  Navigate to the backend directory:
-    cd nest-todo-backend
+    cd todo-backend
 
 2.  Install dependencies:
     npm install
